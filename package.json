@@ -1,0 +1,22 @@
+{
+  "name": "spotify-github-profile",
+  "version": "1.0.0",
+  "description": "Create Spotify now playing card on your github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgoonz/spotify-github-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgoonz/spotify-github-profile/issues"
+  },
+  "homepage": "https://github.com/bgoonz/spotify-github-profile#readme",
+  "dependencies": {
+    "vercel": "^23.0.1"
+  }
+}
