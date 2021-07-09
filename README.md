@@ -2,6 +2,8 @@
 
 Create Spotify now playing card on your github profile
 
+
+
 Running on Vercel serverless function, store data in Firebase (store only access_token, refresh_token, token_expired_timestamp)
 
 ## Connect & Grant Permission
